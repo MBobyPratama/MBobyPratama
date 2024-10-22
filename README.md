@@ -2,5 +2,5 @@
 
 <div align="center">
 <p></p>
-<img src="https://profile-counter.glitch.me/fnky/count.svg" alt="hit counter" align="center">
+<img src="https://profile-counter.glitch.me/MBobyPratama/count.svg" alt="hit counter" align="center">
 </div>
