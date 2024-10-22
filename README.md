@@ -15,9 +15,7 @@ I'm **Boby**, an undergraduate Information Systems student at UPN Veteran Jakart
   <img src="https://github-readme-streak-stats.herokuapp.com?user=MBobyPratama&theme=shadow_red&hide_border=true" width="400">
 </p>
 
-### ⚡ Technologies
-
-<br>
+## ⚡ Technologies
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
