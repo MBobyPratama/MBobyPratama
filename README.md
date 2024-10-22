@@ -13,7 +13,6 @@ I'm **Boby**, an undergraduate Information Systems student at UPN Veteran Jakart
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MBobyPratama&show_icons=true&theme=bear" width="400">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=MBobyPratama&theme=dark&hide_border=true" width="400">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MBobyPratama&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph">
 </p>
 
 ---
