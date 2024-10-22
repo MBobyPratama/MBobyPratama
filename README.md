@@ -10,9 +10,9 @@ I'm **Boby**, an undergraduate Information Systems student at UPN Veteran Jakart
 
 <br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MBobyPratama&show_icons=true&theme=bear" width="200">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MBobyPratama&theme=dark&hide_border=true" width="200">
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=MBobyPratama&show_icons=true&theme=bear" width="300">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MBobyPratama&theme=dark&hide_border=true" width="300">
 </p>
 
 ---
