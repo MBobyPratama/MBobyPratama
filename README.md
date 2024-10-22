@@ -1,6 +1,6 @@
 <img align="left" src="https://github.com/user-attachments/assets/de74ff21-fe52-4fd8-8844-5c986054f113">
 
-### Hey!
+### Nǐ hǎo!
 
 I'm **Boby**, an undergraduate Information Systems student at UPN Veteran Jakarta, with a strong passion for backend development.
 
