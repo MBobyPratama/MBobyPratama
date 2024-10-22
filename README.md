@@ -19,5 +19,5 @@ I'm **Boby**, an undergraduate Information Systems student at UPN Veteran Jakart
 
 <div align="center">
 <p></p>
-<img src="https://profile-counter.glitch.me/MBobyPratama/count.svg" alt="hit counter" align="center" text_color="#747474">
+<img src="https://profile-counter.glitch.me/MBobyPratama/count.svg" alt="hit counter" align="center" color="#747474">
 </div>
