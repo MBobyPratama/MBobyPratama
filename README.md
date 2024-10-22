@@ -17,7 +17,7 @@ I'm **Boby**, an undergraduate Information Systems student at UPN Veteran Jakart
 
 ## ⚡ Technologies
 
-<img src="{https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white}" />
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ---
 
