@@ -8,7 +8,7 @@ I'm **Boby**, an undergraduate Information Systems student at UPN Veteran Jakart
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/3bobyy/)](https://www.instagram.com/3bobyy/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=bobyjakarta4@gmail.com)](mailto:bobyjakarta4@gmail.com)
 
-<br>
+<br><br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MBobyPratama&show_icons=true&theme=shadow_red&hide_border=true&text_color=747474" width="400">
