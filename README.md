@@ -11,7 +11,7 @@ I'm **Boby**, an undergraduate Information Systems student at UPN Veteran Jakart
 <br><br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MBobyPratama&show_icons=true&theme=shadow_red&hide_border=true" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=MBobyPratama&show_icons=true&theme=shadow_red&hide_border=true&text_color=747474" width="400">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=MBobyPratama&theme=shadow_red&hide_border=true" width="400">
 </p>
 
