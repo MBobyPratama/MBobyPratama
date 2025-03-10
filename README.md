@@ -13,7 +13,6 @@ I'm **Boby**, an undergraduate Information Systems student at UPN Veteran Jakart
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MBobyPratama&show_icons=true&theme=shadow_red&hide_border=true&text_color=747474" width="400">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MBobyPratama&theme=shadow_red&layout=compact&hide_border=true&text_color=747474">
-  <img src="https://streak-stats.demolab.com?user=MBobyPratama&count_private=true&theme=shadow_red&title_color=00b3ff" alt="GitHub Streak" />
 </p>
 
 ## ⚡ Technologies
