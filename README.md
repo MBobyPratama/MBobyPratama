@@ -38,10 +38,3 @@ I'm **Boby**, an undergraduate Information Systems student at UPN Veteran Jakart
 ![ESLINT](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
 ![PRETTIER](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
 ![ZOD](https://img.shields.io/badge/Zod-000000?style=for-the-badge&logo=zod&logoColor=3068B7)
-
----
-
-<div align="center">
-<p></p>
-<img src="https://profile-counter.glitch.me/MBobyPratama/count.svg" alt="hit counter" align="center">
-</div>
