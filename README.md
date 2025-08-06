@@ -4,7 +4,7 @@
 
 I'm **Boby**, an undergraduate Information Systems student at UPN Veteran Jakarta, with a strong passion for backend development.
 
-(https://www.self.so/boby)
+https://www.self.so/boby
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-boby-pratama/)](https://www.linkedin.com/in/muhammad-boby-pratama/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/3bobyy/)](https://www.instagram.com/3bobyy/)
