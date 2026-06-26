@@ -9,3 +9,7 @@ https://bobypratama.my.id
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-boby-pratama/)](https://www.linkedin.com/in/muhammad-boby-pratama/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/3bobyy/)](https://www.instagram.com/3bobyy/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=bobypratama.dev@gmail.com)](mailto:bobypratama.dev@gmail.com)
+
+![MBobyPratama's Stats](https://github-readme-stats.vercel.app/api?username=MBobyPratama&theme=radical&show_icons=true&hide_border=true&count_private=true)
+![MBobyPratama's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MBobyPratama&theme=radical&hide_border=true)
+![MBobyPratama's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MBobyPratama&theme=radical&show_icons=true&hide_border=true&layout=compact)
