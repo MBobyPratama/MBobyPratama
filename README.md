@@ -9,3 +9,4 @@ https://bobypratama.my.id
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-boby-pratama/)](https://www.linkedin.com/in/muhammad-boby-pratama/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/3bobyy/)](https://www.instagram.com/3bobyy/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=bobypratama.dev@gmail.com)](mailto:bobypratama.dev@gmail.com)
+.
